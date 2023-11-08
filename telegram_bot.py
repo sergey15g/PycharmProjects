@@ -5,7 +5,7 @@ import telebot
 
 from telebot import types
 # Указываем токен
-bot = telebot.TeleBot('5961858328:AAHPpBwJYG56jSHnZg7BHN0prkIoqpbVQCs')
+bot = telebot.TeleBot('TEL_KEY')
 # Импортируем типы из модуля, чтобы создавать кнопки
 
 # Заготовки для трёх предложений
